@@ -5,14 +5,20 @@ List of Herbivorous dinosaurs:
 Diplodoscus
 Stegasourous
 Brachiosaurus
+Ankylosaurs 
 
 List of carnivorous dinosaurs:
 -----------------------------
 Tyranosaurus rex
 Spinosaurus
 Indominus Rex
+Velociraptor
 
 Thank you for coming to the zoo.
 
 
+
+Done my changes.
+
 Final Copy
+
