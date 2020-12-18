@@ -11,3 +11,5 @@ List of carnivorous dinosaurs:
 Tyranosaurus rex
 Spinosaurus
 Indominus Rex
+
+Thank you for coming to the zoo.
