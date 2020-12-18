@@ -1,9 +1,13 @@
 Welcome to Sirisha's dianosaur world.
 
-List of Herbivorous dinosaur:
+List of Herbivorous dinosaurs:
 -----------------------------
 Diplodoscus
 Stegasourous
 Brachiosaurus
 
-
+List of carnivorous dinosaurs:
+-----------------------------
+Tyranosaurus rex
+Spinosaurus
+Indominus Rex
